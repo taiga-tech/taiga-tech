@@ -1,0 +1,27 @@
+[
+    {
+        "name": "HomePage",
+        "href": "https://www.taiga-tech.tk/",
+        "color": "default"
+    },
+    {
+        "name": "GitHub",
+        "href": "https: //github.com/taiga-tech/readmestock/",
+        "color": "#9C27B0"
+    },
+    {
+        "name": "Twitter",
+        "href": "https: //twitter.com/Taiga_dev/",
+        "color": "#1D9BF0"
+    },
+    {
+        "name": "Wantedry",
+        "href": "https: //www.wantedly.com/users/137448604/",
+        "color": "#4FCCE3"
+    },
+    {
+        "name": "Qiita",
+        "href": "https: //qiita.com/taiga-tech/",
+        "color": "#55C500"
+    }
+]
